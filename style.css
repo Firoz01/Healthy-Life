@@ -180,7 +180,7 @@ nav{
 /*--------------recipies CSS--------------------*/
 
 #recipies{
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .rec-heading{
     text-align: center;
@@ -243,7 +243,7 @@ nav{
     margin-right: 100px;
     padding: 0 150px;
     height: 200px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .count{
     text-align: center;
@@ -256,7 +256,25 @@ nav{
     font-size: 16px;
     margin: 20px 0;
 }
+/*-------------contact--------------------*/
 
+#contact{
+    width: 100%;
+    background-color: #f0eaea;
+    height: 200px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#contact h1{
+    margin-bottom: 20px;
+     padding-top: 40px;
+     font-size: 30px;
+}
+
+#contact p{
+    font-size: 14px;
+}
 
 /*------------footer CSS-----------*/
 
@@ -264,7 +282,7 @@ nav{
 footer{
     width: 100%;
     background-color: black;
-    height: 200px;
+    height: 150px;
     text-align: center;
     
 }
@@ -273,11 +291,11 @@ footer h1{
      color: #5B5B5B;
      margin-bottom: 20px;
      padding-top: 40px;
-     font-size: 30px;
+     font-size: 25px;
 }
 
 footer p{
-    color: #fff;
+    color: #f3dfdf;
     font-size: 12px;
     font-weight: 400;
 }
